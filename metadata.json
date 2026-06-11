@@ -1,0 +1,6 @@
+{
+  "name": "Baihaqi NM Portfolio",
+  "description": "Premium, glassmorphic Data Science and Business portfolio for Baihaqi Nur Muhammad, built with React, Tailwind v4, and motion animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
